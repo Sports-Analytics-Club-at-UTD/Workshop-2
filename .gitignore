@@ -1,0 +1,13 @@
+.build/
+.source-cache/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.pytest_cache/
+workshop2_data/
+.DS_Store
+Thumbs.db
+~$*
