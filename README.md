@@ -21,7 +21,7 @@ Each notebook works independently and includes its dataset. No data upload or lo
 
 The prepared datasets are in `data/`: [football](data/nfl_data.csv), [soccer](data/soccer_data.csv), and [basketball](data/nba_data.csv).
 
-[Workshop slides](slides/workshop2_slides_v5.pptx)
+[Workshop slides](slides/Workshop2_Slides.pptx)
 
 ## Data credits
 
@@ -29,4 +29,3 @@ The prepared datasets are in `data/`: [football](data/nfl_data.csv), [soccer](da
 - **Soccer:** Wyscout, Pappalardo & Massucco (2019), [Soccer match event dataset](https://doi.org/10.6084/m9.figshare.7770599.v1), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Adapted EPL 2017–18 shot subset with derived features; not an endorsed Wyscout product.
 - **Basketball:** [SportsDataverse / ESPN box scores](https://github.com/sportsdataverse/sportsdataverse-data/releases/tag/espn_nba_player_boxscores), NBA 2023–24; prepared player-season rates.
 
-See [source attribution and preparation](data/DATA_SOURCES.md), [column definitions](data/DATA_DICTIONARY.md), and the [provenance manifest](data/manifest.json) for details.
